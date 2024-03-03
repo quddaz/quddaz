@@ -1,5 +1,7 @@
 ### 😆이제야 꿈을 가진 개발자가 되고 싶은 사람입니다.
 지금 열심히 발전 중!
+
+24/03/03 정처기 필기 96점! 실기도 가보자!
 ### ✔사용할 수 있는 기술
 <a href="https://spring.io/projects/spring-boot" target="_blank" class="simple-icon"><img src="https://img.shields.io/badge/Spring Boot-6db33f?style=flat&logo=SpringBoot&logoColor=white"/></a>
 <a href="https://www.mysql.com" target="_blank" class="simple-icon"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
