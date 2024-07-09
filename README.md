@@ -10,6 +10,15 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
 <h3 align="center">📝 Follow Me 📝</h3>
-<p align="center"><a href="https://quddnd.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFCD00?style=flat&logo=Kakao&logoColor=white"/></a></p>
+<p align="center">
+    <a href="https://quddnd.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFCD00?style=flat&logo=Kakao&logoColor=white"/></a></p>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quddaz&show_icons=true&theme=radical)
+
+<p align="center">
+    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=quddaz&show_icons=true&theme=radical)
+    ![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={quddnd})(https://solved.ac/{quddnd})
+</p>
+
+
+
+
