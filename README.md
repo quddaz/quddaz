@@ -14,7 +14,16 @@
 </p>
 <h3 align="center">📝 Follow Me 📝</h3>
 <p align="center">
-    <a href="https://quddnd.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFCD00?style=flat&logo=Kakao&logoColor=white"/></a></p>
+    <a href="https://quddnd.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFCD00?style=for-the-badge&logo=Kakao&logoColor=white"/></a>
+  <a href="mailto:playgrounm@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+      <a href="mailto:quddnddl35@naver.com">
+    <img
+      src="https://img.shields.io/badge/Naver-00e063?style=for-the-badge&logo=naver&logoColor=white"/>
+  </a>
+</p>
 <br>
 
 <p align="center">
