@@ -1,6 +1,9 @@
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=quddaz%20BackEnd&fontSize=90&animation=fadeIn&fontAlignY=38&desc=꿈을%20향해%20나아가는%20학생입니다!&descAlignY=55&descAlign=80"/>
+    <br>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fquddaz&count_bg=%23F32DEC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
+
 </p>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
