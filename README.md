@@ -49,7 +49,7 @@
 <h3 align="center">📊 GitHub Stats 📊</h3>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=quddaz&show_icons=true&theme=radical" alt="GitHub stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=quddaz&theme=radical" alt="GitHub Streak"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quddaz&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 <!-- Footer -->
