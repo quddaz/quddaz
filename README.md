@@ -27,11 +27,10 @@
 <br>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=quddaz&show_icons=true&theme=radical" alt="GitHub stats">
-    <a href="https://solved.ac/quddnd/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=quddnd" alt="Solved.ac Profile">
-    </a>
+    [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=quddnd)](https://solved.ac/quddnd)
+    ![mazandi profile](http://mazandi.herokuapp.com/api?handle=quddnd&theme=dark)
 </p>
+    <img src="https://github-readme-stats.vercel.app/api?username=quddaz&show_icons=true&theme=radical" alt="GitHub stats">
 
 
 
