@@ -19,6 +19,10 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+     <img src="https://img.shields.io/badge/AWS_EC2-20232a.svg?style=flat-square&logo=amazonec2&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub Action-2496ED?style=flat-square&logo=githubactions&logoColor=skyblue" />
 </p>
 
 <!-- Follow Me -->
