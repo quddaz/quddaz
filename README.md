@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=quddaz%20BackEnd&fontSize=90&animation=fadeIn&fontAlignY=38&desc=꿈을%20향해%20나아가는%20학생입니다!&descAlignY=55&descAlign=80"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=quddaz%20BackEnd&fontSize=90&animation=fadeIn&fontAlignY=38&desc=!&descAlignY=55&descAlign=80"/>
 </p>
 
 <!-- Hit Counter -->
