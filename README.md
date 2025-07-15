@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </p>
 
-
+<br>
 <!-- Follow Me -->
 <h3 align="center">📝 Follow Me 📝</h3>
 <p align="center">
