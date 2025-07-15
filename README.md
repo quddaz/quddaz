@@ -32,8 +32,6 @@
         <img src="https://img.shields.io/badge/Naver-00e063?style=for-the-badge&logo=naver&logoColor=white"/>
     </a>
 </p>
-<br>
-
 <h3 align="center">🎞 My Blog 🎞</h3>
 <p align="center">
     <a href="https://quddnd.tistory.com/" target="_blank">
