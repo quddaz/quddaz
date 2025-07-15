@@ -33,14 +33,15 @@
     </a>
 </p>
 <br>
-<!-- My blog!! -->
-<h3 align="center">📝 Follow Me 📝</h3>
+
+<h3 align="center">🎞 My Blog 🎞</h3>
 <p align="center">
     <a href="https://quddnd.tistory.com/" target="_blank">
         <img src="https://img.shields.io/badge/Tistory-FFCD00?style=for-the-badge&logo=Kakao&logoColor=white"/>
     </a>
 </p>
 <br>
+
 <!-- Solved.ac and Mazandi Profile -->
 <h3 align="center">🏆 BOJ Profile 🏆</h3>
 <p align="center">
