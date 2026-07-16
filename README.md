@@ -49,15 +49,4 @@
     <img src="http://mazandi.herokuapp.com/api?handle=quddnd&theme=dark" alt="mazandi 프로필"/>
 </p>
 
-<!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Stats 📊</h3>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=quddaz&show_icons=true&theme=radical" alt="GitHub stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quddaz&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-<!-- Footer -->
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto"/>
-</p>
 
